@@ -1,0 +1,11 @@
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\bin\Debug\GorbatyukAA_Inteview.exe.config
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\bin\Debug\GorbatyukAA_Inteview.exe
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\bin\Debug\GorbatyukAA_Inteview.pdb
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.csproj.AssemblyReference.cache
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.csproj.SuggestedBindingRedirects.cache
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.Form1.resources
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.Properties.Resources.resources
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.csproj.GenerateResource.cache
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.csproj.CoreCompileInputs.cache
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.exe
+D:\Документы\GorbatyukAA_Inteview\GorbatyukAA_Inteview\obj\Debug\GorbatyukAA_Inteview.pdb
